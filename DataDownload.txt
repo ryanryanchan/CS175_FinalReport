@@ -1,0 +1,7 @@
+https://drive.google.com/open?id=1ClqjUQDhD4h38kkk4qPkVtwlwx8MoXUt
+please download both folders into the "project" folder for the notebook to run properly. thanks.
+
+Dataset: our ~2000 image dataset separated into folders of each classification. 
+npy_dataset: a folder containing X and Y numpy files
+    X.npy: a numpy file of preprocessed image data to be used in our code
+    Y.npy: a numpy file of preprocessed labels to be used in our code. 
